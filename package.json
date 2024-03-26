@@ -1,0 +1,16 @@
+{
+  "name": "define",
+  "version": "1.0.0",
+  "description": "command line tool to define meaning of the word",
+  "main": "index.js",
+  "keywords": [],
+  "author": "waqarNaeem786",
+  "license": "ISC",
+  "bin": {
+    "define": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "type": "module"
+}
