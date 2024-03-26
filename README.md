@@ -10,5 +10,4 @@
 ```
 ### it is simple and easy to use. i made it keep myself in the zone stop myself from wondering the web.
 
-<video src="./assets/define.mp4" controls="controls" style="max-width: 730px;">
-</video>
+![alt text](assets/deine.png)
